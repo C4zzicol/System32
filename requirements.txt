@@ -1,0 +1,12 @@
+pyautogui
+random
+telepot
+time
+ctypes
+getpass
+socket
+requests
+winsound
+psutil
+os
+pprint
